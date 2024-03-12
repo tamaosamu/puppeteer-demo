@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "dayjs": "^1.11.10",
+    "exceljs": "^4.4.0",
+    "image-size": "^1.1.1",
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
     "puppeteer": "^22.4.1"
   }
 }
